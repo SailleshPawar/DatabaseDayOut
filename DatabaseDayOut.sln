@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisconnectedData", "Disconn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithParameters", "WithParameters\WithParameters.csproj", "{46DDA6BF-1A84-4ED9-9048-EAE8FE08DA7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoredProcedure", "StoredProcedure\StoredProcedure.csproj", "{71FCAC86-EBB4-4837-B381-9473F56B0D88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{46DDA6BF-1A84-4ED9-9048-EAE8FE08DA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46DDA6BF-1A84-4ED9-9048-EAE8FE08DA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46DDA6BF-1A84-4ED9-9048-EAE8FE08DA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71FCAC86-EBB4-4837-B381-9473F56B0D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FCAC86-EBB4-4837-B381-9473F56B0D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FCAC86-EBB4-4837-B381-9473F56B0D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FCAC86-EBB4-4837-B381-9473F56B0D88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
